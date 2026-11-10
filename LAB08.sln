@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.36260.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab_08_1_iter", "Lab_08_1_iter.vcxproj", "{436436DE-C16D-502C-A7E8-9E0B9E14A0FC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnitTest_08_1", "UnitTest_08_1.vcxproj", "{2A76B4C9-552C-5665-B121-54FBE71CA216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{436436DE-C16D-502C-A7E8-9E0B9E14A0FC}.Debug|x64.ActiveCfg = Debug|x64
+		{436436DE-C16D-502C-A7E8-9E0B9E14A0FC}.Debug|x64.Build.0 = Debug|x64
+		{436436DE-C16D-502C-A7E8-9E0B9E14A0FC}.Release|x64.ActiveCfg = Release|x64
+		{436436DE-C16D-502C-A7E8-9E0B9E14A0FC}.Release|x64.Build.0 = Release|x64
+		{2A76B4C9-552C-5665-B121-54FBE71CA216}.Debug|x64.ActiveCfg = Debug|x64
+		{2A76B4C9-552C-5665-B121-54FBE71CA216}.Debug|x64.Build.0 = Debug|x64
+		{2A76B4C9-552C-5665-B121-54FBE71CA216}.Release|x64.ActiveCfg = Release|x64
+		{2A76B4C9-552C-5665-B121-54FBE71CA216}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
